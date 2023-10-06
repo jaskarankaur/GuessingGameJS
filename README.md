@@ -1,0 +1,1 @@
+# This is a short random number guessing game in JS using prompts.
